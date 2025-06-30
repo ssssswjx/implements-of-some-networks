@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f6149c66-527a-44df-a126-5c71b2e9b157" name="Changes" comment="remove dataset" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2m0RiUrOsPUT3MXip9JmU0Eklef" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.CGAN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GAN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KD.executor&quot;: &quot;Run&quot;,
+    &quot;Python.implement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.knowledge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model.executor&quot;: &quot;Run&quot;,
+    &quot;Python.parameters_count.executor&quot;: &quot;Run&quot;,
+    &quot;Python.scratch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.soft_targets.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_gan.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.utils.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/wjxuan/PycharmProjects/torch_first_learn/AILearning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wjxuan\PycharmProjects\torch_first_learn\Transformer\GAN_example" />
+      <recent name="C:\Users\wjxuan\PycharmProjects\torch_first_learn\Transformer\VIT_learn" />
+      <recent name="C:\Users\wjxuan\PycharmProjects\torch_first_learn\Transformer\dataset" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="parameters_count" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Transformer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VIT_simple" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VIT_simple/parameters_count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="soft_targets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Transformer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/KnowledgeDistilation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/KnowledgeDistilation/soft_targets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Transformer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_gan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Transformer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GAN_example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GAN_example/test_gan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Transformer" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/VIT_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VIT_test/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.test_gan" />
+        <item itemvalue="Python.train (1)" />
+        <item itemvalue="Python.parameters_count" />
+        <item itemvalue="Python.soft_targets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6149c66-527a-44df-a126-5c71b2e9b157" name="Changes" comment="" />
+      <created>1726211633716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726211633716</updated>
+      <workItem from="1726211634815" duration="2049000" />
+      <workItem from="1726539531310" duration="233000" />
+      <workItem from="1726544346401" duration="36000" />
+      <workItem from="1726544790395" duration="1259000" />
+      <workItem from="1726546516730" duration="320000" />
+      <workItem from="1726547676419" duration="2481000" />
+      <workItem from="1726583281310" duration="957000" />
+      <workItem from="1726660404325" duration="1914000" />
+      <workItem from="1726671973276" duration="640000" />
+      <workItem from="1726838090457" duration="1295000" />
+      <workItem from="1726990710726" duration="12040000" />
+      <workItem from="1727009968090" duration="244000" />
+      <workItem from="1727075342806" duration="3209000" />
+      <workItem from="1727078566830" duration="204000" />
+      <workItem from="1727078782843" duration="10478000" />
+      <workItem from="1727093226105" duration="803000" />
+      <workItem from="1727152162244" duration="132000" />
+      <workItem from="1727152566642" duration="148000" />
+      <workItem from="1727167999298" duration="150000" />
+      <workItem from="1727171855768" duration="39000" />
+      <workItem from="1727172665660" duration="47000" />
+      <workItem from="1727173718400" duration="60000" />
+      <workItem from="1727174050328" duration="27000" />
+      <workItem from="1727270251086" duration="540000" />
+      <workItem from="1727271764147" duration="472000" />
+      <workItem from="1727314203539" duration="29000" />
+      <workItem from="1727314280963" duration="378000" />
+      <workItem from="1727314711701" duration="11579000" />
+      <workItem from="1727413767533" duration="8783000" />
+      <workItem from="1727442794496" duration="561000" />
+      <workItem from="1727491340667" duration="723000" />
+      <workItem from="1727515358714" duration="165000" />
+      <workItem from="1727577888793" duration="1613000" />
+      <workItem from="1727579912381" duration="204000" />
+      <workItem from="1727580358734" duration="3870000" />
+      <workItem from="1727609021843" duration="2145000" />
+      <workItem from="1727617655441" duration="3131000" />
+      <workItem from="1727673189228" duration="26000" />
+      <workItem from="1727705712205" duration="910000" />
+      <workItem from="1728027020608" duration="53000" />
+      <workItem from="1728120037457" duration="215000" />
+      <workItem from="1728473907172" duration="1052000" />
+      <workItem from="1728558793034" duration="1320000" />
+      <workItem from="1728613349526" duration="6143000" />
+      <workItem from="1728623999352" duration="844000" />
+      <workItem from="1729143411240" duration="117000" />
+      <workItem from="1729304485717" duration="3312000" />
+      <workItem from="1729490479156" duration="1320000" />
+      <workItem from="1729514415114" duration="1041000" />
+      <workItem from="1729575082912" duration="12000" />
+      <workItem from="1730282121375" duration="19000" />
+      <workItem from="1730808414169" duration="314000" />
+      <workItem from="1730816112460" duration="277000" />
+      <workItem from="1730816396129" duration="1899000" />
+      <workItem from="1730883576743" duration="3000" />
+      <workItem from="1730982209081" duration="62000" />
+      <workItem from="1730991434200" duration="654000" />
+      <workItem from="1731054854717" duration="54000" />
+      <workItem from="1731200407059" duration="3458000" />
+      <workItem from="1731404629969" duration="2656000" />
+      <workItem from="1731412833136" duration="1126000" />
+      <workItem from="1731574299825" duration="1255000" />
+      <workItem from="1731576030434" duration="6000" />
+      <workItem from="1731758889334" duration="35000" />
+      <workItem from="1731827987712" duration="60000" />
+      <workItem from="1731828341433" duration="67000" />
+      <workItem from="1733119649909" duration="9000" />
+      <workItem from="1733141138386" duration="621000" />
+      <workItem from="1733216038554" duration="4129000" />
+      <workItem from="1733303933575" duration="826000" />
+      <workItem from="1733571506591" duration="100000" />
+      <workItem from="1733571651861" duration="18000" />
+      <workItem from="1734270201326" duration="1574000" />
+      <workItem from="1734350194105" duration="980000" />
+      <workItem from="1734351702675" duration="763000" />
+      <workItem from="1734430252552" duration="7000" />
+      <workItem from="1734506525983" duration="305000" />
+      <workItem from="1734507089128" duration="230000" />
+      <workItem from="1734507812750" duration="1128000" />
+      <workItem from="1735387006793" duration="1279000" />
+      <workItem from="1735976740852" duration="450000" />
+      <workItem from="1736068163149" duration="658000" />
+      <workItem from="1736068838360" duration="99000" />
+      <workItem from="1736083439043" duration="90000" />
+      <workItem from="1736083539864" duration="912000" />
+      <workItem from="1736841674104" duration="29000" />
+      <workItem from="1736841709905" duration="94000" />
+      <workItem from="1740636299333" duration="75000" />
+      <workItem from="1740833774826" duration="79000" />
+      <workItem from="1741159516763" duration="791000" />
+      <workItem from="1741266825609" duration="527000" />
+      <workItem from="1746857766170" duration="2844000" />
+      <workItem from="1747272757148" duration="3000" />
+      <workItem from="1751277520781" duration="1436000" />
+      <workItem from="1751278987912" duration="645000" />
+      <workItem from="1751279642729" duration="1139000" />
+      <workItem from="1751280791621" duration="466000" />
+    </task>
+    <task id="LOCAL-00001" summary="remove dataset">
+      <option name="closed" value="true" />
+      <created>1751280881037</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751280881037</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="remove dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove dataset" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Transformer$utils.coverage" NAME="utils Coverage Results" MODIFIED="1727010076949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_simple" />
+    <SUITE FILE_PATH="coverage/AILearning$parameters_count.coverage" NAME="parameters_count Coverage Results" MODIFIED="1731575533411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_simple" />
+    <SUITE FILE_PATH="coverage/AILearning$train.coverage" NAME="train Coverage Results" MODIFIED="1730816214478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_simple" />
+    <SUITE FILE_PATH="coverage/Transformer$test_gan.coverage" NAME="test_gan Coverage Results" MODIFIED="1727319321062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN_example" />
+    <SUITE FILE_PATH="coverage/AILearning$KD.coverage" NAME="KD Coverage Results" MODIFIED="1727427341456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KnowledgeDistilation" />
+    <SUITE FILE_PATH="coverage/Transformer$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1727091418578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_test" />
+    <SUITE FILE_PATH="coverage/Transformer$model.coverage" NAME="model Coverage Results" MODIFIED="1727076041958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_simple" />
+    <SUITE FILE_PATH="coverage/AILearning$model.coverage" NAME="model Coverage Results" MODIFIED="1731410160042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Swin-transformer" />
+    <SUITE FILE_PATH="coverage/Transformer$train.coverage" NAME="train Coverage Results" MODIFIED="1727078569551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_simple" />
+    <SUITE FILE_PATH="coverage/Transformer$test.coverage" NAME="test Coverage Results" MODIFIED="1727093377092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AILearning$soft_targets.coverage" NAME="soft_targets Coverage Results" MODIFIED="1731574407208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KnowledgeDistilation" />
+    <SUITE FILE_PATH="coverage/AILearning$train__1_.coverage" NAME="train (1) Coverage Results" MODIFIED="1733305959951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/VIT_test" />
+    <SUITE FILE_PATH="coverage/AILearning$GAN.coverage" NAME="GAN Coverage Results" MODIFIED="1729305600949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN" />
+    <SUITE FILE_PATH="coverage/AILearning$test.coverage" NAME="test Coverage Results" MODIFIED="1740833784131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/AILearning$implement.coverage" NAME="implement Coverage Results" MODIFIED="1727706589044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Normalization" />
+    <SUITE FILE_PATH="coverage/Transformer$GAN.coverage" NAME="GAN Coverage Results" MODIFIED="1727318195992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN" />
+    <SUITE FILE_PATH="coverage/AILearning$CGAN.coverage" NAME="CGAN Coverage Results" MODIFIED="1729306765702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN" />
+    <SUITE FILE_PATH="coverage/AILearning$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1731054865869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
+    <SUITE FILE_PATH="coverage/AILearning$knowledge.coverage" NAME="knowledge Coverage Results" MODIFIED="1727421566761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KnowledgeDistilation" />
+    <SUITE FILE_PATH="coverage/AILearning$test_gan.coverage" NAME="test_gan Coverage Results" MODIFIED="1734270410988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GAN_example" />
+  </component>
+</project>
